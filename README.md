@@ -30,7 +30,8 @@ Link for registering Github:[Github](https://github.com/)
 Link for more info on how to download other tools using Chocolatey [More info](https://github.com/denisecase/basic-tools-for-webdev)
 
 ## Recommended sources:
-You can also get more information on Web development using the below links
+You can also get more information on Web development using the below links:
+
    [Lynda](https://www.lynda.com/)
    
    [Udemy](https://www.lynda.com/)
@@ -41,6 +42,7 @@ You can also get more information on Web development using the below links
 Name: Harika Kulkarni
 
 Program: ACS
+![Image](https://www.wp-tutorials.com/wp-content/uploads/2018/01/why-learning-web-development.png)
 
 
 
