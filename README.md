@@ -18,8 +18,11 @@ Will guide you and discuss the tools and languages required to publish repo with
     * Putty
 1. Languages: Markdone
 
-* Tips:Chocolatey makes ut easier to download other tools lika Visual studio,TortiseGit.So make sure you have Chocolatey installed.
+* Tips:
+Chocolatey makes ut easier to download other tools lika Visual studio,TortiseGit.So make sure you have Chocolatey installed.
+
 * Qucik Links:
+
 Link for Installing chocolatey:[Chocolatey](https://chocolatey.org/packages)
 
 Link for registering Github:[Github](https://github.com/)
