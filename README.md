@@ -10,13 +10,13 @@ This repo Will guide you and discuss the tools and languages required to publish
 ## Recommended Tools:
 1. You need to register to Github first
 1. Install Chocolatey
+1. Language: Markdone
 1. Below are the tools required:
     - Visual studio code
     - Tortise Git
     - Git
     - GitHub Desktop
     - Putty
-1. Language: Markdone
 
 * Tips:
 Chocolatey makes ut easier to download other tools lika Visual studio,TortiseGit.So make sure you have Chocolatey installed.
