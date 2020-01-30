@@ -32,11 +32,14 @@ Link for more info on how to download other tools using Chocolatey [More info](h
 ## Recommended sources:
 You can also get more information on Web development using the below links
    [Lynda](https://www.lynda.com/)
+   
    [Udemy](https://www.lynda.com/)
+   
    [Codecademy](https://www.google.com/search?q=codecademy&rlz=1C1GCEA_enUS884US884&oq=codeac&aqs=chrome.1.69i57j0l7.3914j0j7&sourceid=chrome&ie=UTF-8)
 
 ## Contributors:
 Name: Harika Kulkarni
+
 Program: ACS
 
 
