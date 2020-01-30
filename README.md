@@ -19,15 +19,15 @@ This repo Will guide you and discuss the tools and languages required to publish
     - Putty
 
 * Tips:
-Chocolatey makes ut easier to download other tools lika Visual studio,TortiseGit.So make sure you have Chocolatey installed.
+  Chocolatey makes ut easier to download other tools lika Visual studio,TortiseGit.So make sure you have Chocolatey installed.
 
 * Qucik Links:
 
-Link for Installing chocolatey:[Chocolatey](https://chocolatey.org/packages)
+  Link for Installing chocolatey:[Chocolatey](https://chocolatey.org/packages)
 
-Link for registering Github:[Github](https://github.com/)
+  Link for registering Github:[Github](https://github.com/)
 
-Link for more info on how to download other tools using Chocolatey [More info](https://github.com/denisecase/basic-tools-for-webdev)
+  Link for more info on how to download other tools using Chocolatey [More info](https://github.com/denisecase/basic-tools-for-webdev)
 
 ## Recommended Resources:
 You can also get more information on Web development using the below links:
