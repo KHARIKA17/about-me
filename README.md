@@ -5,7 +5,7 @@
 * [Hosted page]()
 
 ## This repo
-Will guide you and discuss the tools and languages required to publish repo with Github pages.
+This repo Will guide you and discuss the tools and languages required to publish repo with Github pages.You can also get the links here.
 
 ## Recommended Tools:
 1. You need to register to Github first
