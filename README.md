@@ -29,7 +29,7 @@ Link for registering Github:[Github](https://github.com/)
 
 Link for more info on how to download other tools using Chocolatey [More info](https://github.com/denisecase/basic-tools-for-webdev)
 
-## Recommended sources:
+## Recommended Resources:
 You can also get more information on Web development using the below links:
 
    [Lynda](https://www.lynda.com/)
