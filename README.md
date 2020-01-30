@@ -1,10 +1,10 @@
 # about-me
 
-## Repository Links
+## Repository Links:
 * [Source repositry](https://github.com/KHARIKA17/about-me)
 * [Hosted page]()
 
-## This repo
+## About Repositry:
 This repo Will guide you and discuss the tools and languages required to publish repo with Github pages.You can also get the links here.
 
 ## Recommended Tools:
