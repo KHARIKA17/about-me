@@ -9,5 +9,5 @@ Will guide you and discuss the tools and languages required to publish repo with
 
 ## Recommended Tools:
 1.You need to register to Github first
-2.Install chocolate.
+1.Install chocolate.
 
