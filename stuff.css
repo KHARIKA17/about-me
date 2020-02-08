@@ -1,34 +1,20 @@
-body {
-    background-color:cornsilk;
-  2
-  }
+head{
+  text-decoration-color: darkmagenta;
+}
   
-  h1 {
-    color:darkmagenta;
-    text-align:center;
-    
-  }  
+  
   img {
       border-radius: 70%;
       
   }
 
-  head{
-      text-align: center;
-  }
-
-  iframe{
-    body:down;
 
 
-  }
 
   table,th,td{
     border:1px solid black;
 
   }
 
-  nav{
-    text-align: center;
-  }
+  
 
