@@ -1,7 +1,4 @@
-head{
-  text-decoration-color: darkmagenta;
-}
-  
+
   
   img {
       border-radius: 70%;
@@ -17,12 +14,33 @@ head{
   }
 
 
+  #para1
+  {
+    color:green;
+  }
 
-table.ss
+  #para2
+  {
+    text-transform: uppercase;
+  }
+
+
+.navBar
 {
-  background-color:burlywood;
-  
+background-color:gold;
+border-color: black;
+table-layout: middle;
 }
+
+.header
+{
+  background-color:gold;
+  text-align: left;
+}
+
+
+
+
 
   
 
