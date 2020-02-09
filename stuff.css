@@ -16,7 +16,9 @@
 
   #para1
   {
-    color:green;
+    color:black;
+    text-align: center;
+    
   }
 
   #para2
@@ -24,19 +26,35 @@
     text-transform: uppercase;
   }
 
+  *{
+    padding:2px;
+    margin:2px;
+    shape-margin: 10%;
+    
+  }
 
-.navBar
-{
-background-color:gold;
-border-color: black;
-table-layout: middle;
-}
+
 
 .header
 {
-  background-color:gold;
-  text-align: left;
+  padding:20px;
+  text-align:center;
+  background: #c2bbbe;
+  color:black;
 }
+
+.navBar{
+padding:40px;
+text-align:center;
+background: #c2bbbe;
+color:white;
+
+
+
+
+
+}
+
 
 
 
