@@ -2,61 +2,54 @@
 
 <head>
 <title>HTML Calculator</title>
+<meta charset="UTF-8" />
+<script src="main.js"></script>
 </head>
 
 <body>
-  <h1>About Me</h1>
+  <h1 id="para1">About Me</h1>
+  
+
+            
   <div class="navContainer">
-    <nav class="navBar">
-       <ul class="navContentContainer">
-         <table class=ss>
-           <tr>
-         <th><a href="index.html">Index</a></li></th>
-         <th><a href="contact.html">Contact me</a></li></th>
-         <th><a href="Calculator.html">Calculator</a></li></th>
-         </tr>
-         </table>
-       </ul>
-    </nav>
-  </div>  
-    
-      <img src="https://avatars0.githubusercontent.com/u/60010885?s=400&u=a45ec2a840faa256fab687375b2e8cbf758d9353&v=4" alt="face" id="image1"class1="img-circle" height="200" width="200">
-<form action="javascript:calc()">
-    Input:<br>
-    <input type="text" name="firstname"><br>
-    Percent:<br>
+  <nav class="navBar">
+        <div><a href="index.html">Index</a></div>
+      <div><a href="contact.html">Contact me</a></div>
+      <div><a href="Calculator.html">Calculator</a></div>
+       
+     
+  </nav>
+</div>
+  
+  
+  <img src="https://avatars1.githubusercontent.com/u/60010885?s=400&u=6943bc4287d29cb8154a481434da6fcbfd114031&v=4" alt="face" id="image1"class1="img-circle" height="200" width="200">
+  <form>
+    First name:<br>
+    <input type="text" name="firstname" id="fname"><br>
+    Last name:<br>
     <input type="text" name="lastname"><br>
-    Output:<br>
-    <input type="text" name="email"><br>
+    Course:<br>
+    <input type="text" name="Course"><br>
+    Your marks:<br>
+    <input type="number" name="marks" id="marks"><br>
+    Total marks:<br>
+    <input type="number" name="tot_marks" id="tot_marks"><br>
+  </form>
+
     
-    <input type="submit" value="Submit">
     
-</form>
-<form name="calculator" >
-<input type="button" value="1" onClick="document.calculator.ans.value+='1'">
-<input type="button" value="2" onClick="document.calculator.ans.value+='2'">
-<input type="button" value="3" onClick="document.calculator.ans.value+='3'">
-<input type="button" value="4" onClick="document.calculator.ans.value+='4'">
-<input type="button" value="5" onClick="document.calculator.ans.value+='5'">
-<input type="button" value="6" onClick="document.calculator.ans.value+='6'">
-<input type="button" value="7" onClick="document.calculator.ans.value+='7'">
-<input type="button" value="8" onClick="document.calculator.ans.value+='8'">
-<input type="button" value="9" onClick="document.calculator.ans.value+='9'">
-<input type="button" value="-" onClick="document.calculator.ans.value+='-'">
-<input type="button" value="+" onClick="document.calculator.ans.value+='+'">
-<input type="button" value="*" onClick="document.calculator.ans.value+='*'">
-<input type="button" value="/" onClick="document.calculator.ans.value+='/'">
- 
-<input type="button" value="0" onClick="document.calculator.ans.value+='0'">
-<input type="reset" value="Reset">
-<input type="button" value="=" onClick="document.calculator.ans.value=eval(document.calculator.ans.value)">
-<br>Solution is <input type="textfield" name="ans" value="">
-</form>
+    <div id="output-group">
+        <div class="outputlabel">Your Percentage:</div><div class="outputText" id="Percentage"></div>
+        
+    </div>
+    <button onclick="calc()">Submit</button>
+
+    
+      
 <aside>
   <link rel="stylesheet" type="text/css" href="stuff.css" />
 
 </aside>
-<hr>
 <footer>
   &copy;2020 Harika Kulkarni.All rights reserved.
 </footer>
@@ -64,12 +57,5 @@
 
 
 </body>
-<script>
-function calc() {
-  var i = document.getElementById("input").value;
-  var p = document.getElementById("percent").value;
-  var o = (i/100) * p;
-  document.getElementById("output").value = o;
-}
-</script>
+
 </html>
